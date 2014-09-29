@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thanos__Lw__Tracker", "Thanos__Lw__Tracker.csproj", "{DC78A0CA-2A2C-4350-B413-EF61C0243523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC78A0CA-2A2C-4350-B413-EF61C0243523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC78A0CA-2A2C-4350-B413-EF61C0243523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC78A0CA-2A2C-4350-B413-EF61C0243523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC78A0CA-2A2C-4350-B413-EF61C0243523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Thanos__Lw__Tracker.csproj
+	EndGlobalSection
+EndGlobal
